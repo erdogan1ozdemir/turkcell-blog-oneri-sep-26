@@ -7,14 +7,14 @@ Kapsam: `www.turkcell.com.tr/blog` · Tarih: 6 Eylül 2026
 | Dosya | İçerik |
 |---|---|
 | `index.html` | Tek dosyalık HTML rapor. 11 bölüm, 14 tablo, gömülü XLSX görüntüleyici. |
-| `Turkcell_Blog_Yeni_Trafik_Kaynaklari_Fikir_Hacim.xlsx` | 13 sekmeli veri paketi. |
+| `Turkcell_Blog_Yeni_Trafik_Kaynaklari_Fikir_Hacim.xlsx` | 12 sekmeli veri paketi. |
 
 ## Rapor bölümleri
 
-01 Yönetici özeti · 02 Yöntem ve kapsam · 03 Kelime denetimi (çakışma ve cannibalization kontrolü dahil) ·
-04 Content gap ve kapsama farkı · 05 Pillar-cluster önerileri · 06 AI Overview odaklı kısa içerikler ·
-07 Güncellenebilecek içerikler · 08 Turkcell hedefi olmayan ama rakiplerin trafik aldığı aramalar ·
-09 Sezonsallık · 10 Yayın takvimi · 11 Fikir-hacim tablosu · 12 Terim sözlüğü
+01 Yönetici özeti · 02 Yöntem ve kapsam · 03 Content gap ve kapsama farkı ·
+04 Pillar-cluster önerileri · 05 AI Overview odaklı kısa içerikler · 06 Güncellenebilecek içerikler ·
+07 Turkcell hedefi olmayan ama rakiplerin trafik aldığı aramalar · 08 Sezonsallık ·
+09 Yayın takvimi · 10 Fikir-hacim tablosu · 11 Terim sözlüğü
 
 ## Kaynaklar
 
@@ -26,8 +26,8 @@ Kapsam: `www.turkcell.com.tr/blog` · Tarih: 6 Eylül 2026
 
 Her hedef kelime konu, arama niyeti ve tek anlam koşullarına göre denetlenmiştir. Sonuç sayfası
 alışveriş listesi, giriş sayfası, sorgulama aracı ya da markanın kendi hizmet sayfasıyla karşılanan
-kelimeler kümelerden çıkarılmıştır. Elenen kelimeler gerekçesiyle raporun 03. bölümünde ve Excel'in
-11 Kelime Denetimi sekmesindedir.
+kelimeler kümelerden çıkarılmıştır. Eleme ölçütü raporun 02. bölümünde ve Excel'in 11 Yöntem ve
+Kaynaklar sekmesinde açıklanmıştır.
 
 ## Primary ve secondary keyword
 
