@@ -7,7 +7,7 @@ Kapsam: `www.turkcell.com.tr/blog` · Tarih: 6 Eylül 2026
 | Dosya | İçerik |
 |---|---|
 | `index.html` | Tek dosyalık HTML rapor. 11 bölüm, 14 tablo, gömülü XLSX görüntüleyici. |
-| `Turkcell_Blog_Yeni_Trafik_Kaynaklari_Fikir_Hacim.xlsx` | 12 sekmeli veri paketi. |
+| `Turkcell_Blog_Yeni_Trafik_Kaynaklari_Fikir_Hacim.xlsx` | 14 sekmeli veri paketi. 02B sekmesi içerik kurgusu ve FAQ satırlarını, 06B sekmesi Telco AI Overview takip listesini taşır. |
 
 ## Rapor bölümleri
 
